@@ -5,4 +5,6 @@ title: Niko on paras
 ---
 Moikka vaan!
 
-![](/assets/niko_salminen.png)
+Tähän tuli nyt vähän lisää tekstiä.
+
+![null](/assets/niko_salminen.png)
